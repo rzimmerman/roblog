@@ -1,0 +1,13 @@
+{
+  "title": "Rob's Blog",
+  "tagline": "You'd better leave",
+  "description": "Thoughts on technology, space, the Grateful Dead, and other related topics.",
+  "author": "Robert Zimmerman",
+  "twitter": "rmzimmerman",
+  "github": "rzimmerman",
+  "email": "rmzimmerman@gmail.com",
+  "copyright": "Copyright &copy; 2013 Robert Zimmerman",
+  "url": "http://blog.rzimmerman.me",
+  "publish": "rob@publish.rzimmerman.me",
+  "publishPort": 22
+}
