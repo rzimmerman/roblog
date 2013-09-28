@@ -12,6 +12,8 @@
 
 <p>I mostly write about my personal work here. Feel free to contact me with corrections or comments.</p>
 
+<p>Like the way this blog looks? You have strange taste, but feel free to fork/steal it on <a href="https://www.github.com/rzimmerman/roblog">Github</a>.</p>
+
 </article>
 
   <%
